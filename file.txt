@@ -1,14 +1,1 @@
-`asdasdasdasd
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 this is test.
-
-this is test again.
->>>>>>> test again
-=======
-this is test.
-
-this is test again.
-this is remote test.
->>>>>>> 44645d0c5f8ffeb5cea4a43dff453e50c7f40b7a
